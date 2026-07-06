@@ -1,0 +1,9 @@
+id,name,department_id,salary,manager_id
+1,Ada Lovelace,10,95000,
+2,Alan Turing,10,98000,1
+3,Grace Hopper,20,87000,
+4,Katherine Johnson,20,91000,3
+5,Margaret Hamilton,30,102000,
+6,Radia Perlman,30,99500,5
+7,Barbara Liskov,10,97000,1
+8,Edsger Dijkstra,,89000,
